@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_app"
+        android:icon="@drawable/icon_apps"
+        android:title="APP"/>
+
+    <item
+        android:id="@+id/tab_build"
+        android:icon="@drawable/icon_build"
+        android:title="修理"/>
+
+    <item
+        android:id="@+id/tab_folder"
+        android:icon="@drawable/icon_folder"
+        android:title="文件"/>
+
+    <item
+        android:id="@+id/tab_pen"
+        android:icon="@drawable/icon_pen"
+        android:title="文具"/>
+</menu>
